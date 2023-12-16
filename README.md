@@ -1,5 +1,5 @@
 # Weather-app-in-go
-This is an application that allows you to check the weather in various places around the world. The application uses the GO language and API from OpenWeather, which provides weather data in JSON format. The application parses the JSON file and displays the temperature and the name of the city for which the weather was downloaded.  
+This is an application that allows you to check the weather in various places around the world. The application uses the GO language and API from OpenWeather, which provides weather data in JSON format. The application parses the JSON file and displays the temperature.  
 
 ## How use it ?
 First, you need to register at https://openweathermap.org/ and obtain your API key.  
