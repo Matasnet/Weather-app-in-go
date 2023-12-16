@@ -8,4 +8,10 @@ Your API key you must past to key := "", between quotation marks eg. key := "123
 In variable "place" you can write interesting you place. Remember to use + instead of spaces.
 
 When everything is read you can open eg. Visual Studio Code and in terminal write 
-## go run app.go
+go run app.go
+
+## What units I should use
+
+In variable url you can see &units=metric 
+You can use: standard (Kelvin), metric(Celsius) or imperial (Fahrenheit) units.
+Default are standard, so if you delet +&units=metric you can get temperature in Kelvin. 
